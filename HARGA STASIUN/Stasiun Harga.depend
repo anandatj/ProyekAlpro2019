@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1571049788 source:d:\studies\electrical engineering ui\algoritma pemrograman\proyek uts\harga stasiun\pricing.c
+	<windows.h>
+	<stdio.h>
+
+1571049708 source:d:\studies\electrical engineering ui\algoritma pemrograman\proyek uts\harga stasiun\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+
+1571046391 d:\studies\electrical engineering ui\algoritma pemrograman\proyek uts\harga stasiun\pricing.h
+
+1571123565 source:c:\users\achri\desktop\tes\harga stasiun\pricing.c
+	<windows.h>
+	<stdio.h>
+
+1571121844 source:c:\users\achri\desktop\tes\harga stasiun\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+
+1571149132 source:d:\studies\electrical engineering ui\algoritma pemrograman\proyek uts\harga stasiunsemi\harga stasiun\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1571149317 source:d:\studies\electrical engineering ui\algoritma pemrograman\proyek uts\harga stasiunsemi\harga stasiun\pricing.c
+	<windows.h>
+	<stdio.h>
+
+1571191538 source:d:\studies\electrical engineering ui\algoritma pemrograman\proyek uts\harga stasiun - final\harga stasiun\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1571149849 source:d:\studies\electrical engineering ui\algoritma pemrograman\proyek uts\harga stasiun - final\harga stasiun\pricing.c
+	<windows.h>
+	<stdio.h>
+
