@@ -15,6 +15,6 @@ Instruksi Program Penghitung Harga Tiket KRL<br/>
 2. Masukkan angka stasiun tujuan yang diinginkan.<br/>
 3. Masukkan angka pilihan antara 1 atau 2, bila 1 ikuti langkah 1 sampai 3.<br/>
 4. Bila pilihan 2, Program akan menyimpulkan perjalanan anda, mulai dari harga total yang dibayarkan hingga jarak total yang ditempuh.<br/>
-5. Program juga akan membuat file TravelHistory.csv<br/>
+5. Program juga akan menulis histori perjalanan di file TravelHistory.csv<br/>
 <br/>
 Dimohon untuk memasukkan input sesuai dengan pilihan yang ada!
